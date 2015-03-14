@@ -1,0 +1,43 @@
+@CHARSET "UTF-8";
+/* Reset */
+* {
+	margin: 0;
+	padding: 0;
+}
+html, body{
+	height:100%;
+}
+body {
+	margin:0;
+	font-family: Apple SD 산돌고딕 Neo, Apple SD Gothic Neo, 맑은 고딕, Malgun Gothic, AppleGothic, Apple Gothic, 돋움, Dotum;
+	font-size:12px;
+	background:#fff;
+	color:#000;
+}
+address {
+	font-style:normal;
+}
+img, fieldset {
+	border:0; margin:0; padding:0;
+}
+form{
+	margin:0;
+}
+legend {
+	position:absolute; width:0; height:0; overflow:hidden; font-size:0; line-height:0; visibility:hidden; z-index:-1;
+}
+hr {
+	display:none;
+}
+sup, sub {
+	font-style:normal; font-weight:normal;
+}
+li {
+	display: block;
+}
+a {
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: underline;
+}

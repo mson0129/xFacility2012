@@ -1,0 +1,2 @@
+ko-KR
+en-US
